@@ -13,7 +13,6 @@
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📝 I regulary write technical articles for [hashnode](https://apoorvtyagi.tech/) and [dev.to](https://dev.to/apoorvtyagi)
 - 💻 I use daily: **.js**, **.sol**, **.py**,  **.evm_chains**
-- 📖 I am currently reading **Wallet Contract** by MetaMelon 
 - 💬 Talk to me about tekken tag(Video Game), solidity (both of these are not any kind of insect or animals),blockchain, silicon valley & startups
 - 👯 We can connect to play some games of Chess ♟
 - ⚡ Fun fact: Je connais un peu le français
